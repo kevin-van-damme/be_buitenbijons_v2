@@ -20,7 +20,10 @@
         "drupal/core-project-message": "^11.1",
         "drupal/core-recommended": "^11.1",
         "drupal/gin": "^4.0",
+        "drupal/gin_login": "^2.1",
+        "drupal/jsonapi_views": "^1.1",
         "drupal/leaflet": "^10.2",
+        "drupal/next": "^2.0",
         "drush/drush": "^13.6"
     },
     "conflict": {
